@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### This was a test I was given recently to display JavaScript skills.  It requires the use of raw JS date objects without the use of helper libraries like Moment.
+
 ## Available Scripts
 
 In the project directory, you can run:
